@@ -16,6 +16,6 @@ Configuration settings for ONDC Production (Live) Environment
 
 4. SwaggerHub endpoint for ONDC Protocol
 
-`https://app.swaggerhub.com/apis/ONDC/ONDC-Protocol-Hyperlocal/1.0.0-draft`
+`https://app.swaggerhub.com/apis/ONDC/ONDC-Protocol-Hyperlocal/1.0.2`
 
-`https://app.swaggerhub.com/apis/ONDC/ONDC-Protocol-Logistics/1.0.0-draft`
+`https://app.swaggerhub.com/apis/ONDC/ONDC-Protocol-Logistics/1.0.2`
